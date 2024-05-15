@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HelpMethods
+comment1.params=x\ y\ width\ height\ lvlData
+comment1.target=boolean\ CanMoveHere(float,\ float,\ float,\ float,\ int[][])
+comment2.params=x\ y\ lvlData
+comment2.target=boolean\ IsSolid(float,\ float,\ int[][])
+comment3.params=hitbox\ xSpeed
+comment3.target=float\ GetEntityXPosNextToWall(java.awt.geom.Rectangle2D.Float,\ float)
+comment4.params=hitbox\ airSpeed
+comment4.target=float\ GetEntityYPosUnderRoofOrAboveFloor(java.awt.geom.Rectangle2D.Float,\ float)
+comment5.params=hitbox\ lvlData
+comment5.target=boolean\ IsEntityOnFloor(java.awt.geom.Rectangle2D.Float,\ int[][])
+numComments=6

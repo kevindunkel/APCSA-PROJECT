@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GamePanel
+comment1.params=game
+comment1.target=GamePanel(Game)
+comment2.params=
+comment2.target=void\ setPanelSize()
+comment3.params=
+comment3.target=void\ updateGame()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=
+comment5.target=Game\ getGame()
+numComments=6

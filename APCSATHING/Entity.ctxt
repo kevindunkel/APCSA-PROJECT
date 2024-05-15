@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=x\ y\ width\ height
+comment1.target=Entity(float,\ float,\ int,\ int)
+comment2.params=g
+comment2.target=void\ drawHitbox(java.awt.Graphics)
+comment3.params=x\ y\ width\ height
+comment3.target=void\ initHitbox(float,\ float,\ float,\ float)
+comment4.params=
+comment4.target=java.awt.geom.Rectangle2D.Float\ getHitbox()
+numComments=5

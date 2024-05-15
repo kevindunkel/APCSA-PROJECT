@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Level
+comment1.params=lvlData
+comment1.target=Level(int[][])
+comment2.params=x\ y
+comment2.target=int\ getSpriteIndex(int,\ int)
+comment3.params=
+comment3.target=int[][]\ getLevelData()
+numComments=4
